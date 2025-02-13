@@ -89,9 +89,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Sunwatcha303/Sunwatcha303/output/snake.svg" alt="Snake animation" />
-
-###
