@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h6 align="center">Hi 👋! My name is Watcharakorn Maleewan and I'm a 3rd years from Computer Science KMITL</h6>
+<h2 align="center">Hi 👋! My name is Watcharakorn Maleewan and I'm a 3rd years from Computer Science KMITL</h2>
 
 ###
 ## Overview
@@ -75,9 +75,15 @@
 
 ###
 ## Contact
+<br clear="both">
+
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="watcharakorn301146@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/watcharakorn-maleewan-9b598b348/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
