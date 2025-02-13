@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋! My name is Watcharakorn Maleewan and I'm a 3rd years from Computer Science KMITL</h2>
+<h2 align="center">Hi 👋! My name is Watcharakorn Maleewan and I'm a 3rd years Computer Science KMITL</h2>
 
 ###
 
